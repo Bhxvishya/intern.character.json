@@ -44,5 +44,12 @@ Always bullish, always informed, and always ready to spread the gospel of [TOKEN
 ## ⚙️ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/[TOKEN_NAME]-intern-bot.git
+   git clone https://github.com/(https://github.com/Bhxvishya/intern.character.json)/[TOKEN_NAME]-intern-bot.git
    cd [TOKEN_NAME]-intern-bot
+
+   ## ⚙️ How to Run
+
+### Install dependencies:
+```bash
+npm install
+npm start
